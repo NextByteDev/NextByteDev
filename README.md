@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
 
-<!--
-**DeepSynthAI/DeepSynthAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI practitioner passionate about exploring real-world applications of AI and automation.  
+I'm looking for opportunities in AI-related fields where Python knowledge is preferred but not required.  
 
-Here are some ideas to get you started:
+## 🚀 Interests  
+- AI-powered automation  
+- No-code and low-code AI tools  
+- AI APIs and their applications  
+- Data analysis & visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills  
+- Python (basic understanding)  
+- AI APIs (OpenAI, Hugging Face, Google AI)  
+- Data analysis with Pandas & Matplotlib  
+- Jupyter Notebooks & Google Colab  
+
+## 📌 Projects  
+*(Coming soon!)*  
