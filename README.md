@@ -10,7 +10,7 @@ I'm looking for opportunities in AI-related fields where Python knowledge is pre
 - Data analysis & visualization  
 
 ## 🔧 Skills  
-- Python (basic understanding)  
+- Python  
 - AI APIs (OpenAI, Hugging Face, Google AI)  
 - Data analysis with Pandas & Matplotlib  
 - Jupyter Notebooks & Google Colab  
