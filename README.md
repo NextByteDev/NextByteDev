@@ -17,3 +17,4 @@ I'm looking for opportunities in AI-related fields where Python knowledge is pre
 
 ## 📌 Projects  
 - [AI-Powered Text Generator](https://github.com/DeepSynthAI/ai-text-generator/)
+- [Data Visualization Tool](https://github.com/DeepSynthAI/data_visualization/)
