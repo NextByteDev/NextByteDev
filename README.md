@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Fatima (NextByteDev)
+# 👋 Hi, I'm Fatima (NextByteDev) ![image](https://github.com/user-attachments/assets/59b112d3-7152-4639-977e-0d6999155a58)
+
 
 Aspiring AI practitioner passionate about exploring real-world applications of AI and automation.  
 I'm looking for opportunities in AI-related fields where Python knowledge is preferred but not required.  
