@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fatima (NextByteDev) ![image](https://github.com/user-attachments/assets/59b112d3-7152-4639-977e-0d6999155a58)
+# 👋 Hi, I'm Fatima (NextByteDev)
 
 
 Aspiring AI practitioner passionate about exploring real-world applications of AI and automation.  
