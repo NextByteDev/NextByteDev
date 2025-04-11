@@ -21,3 +21,4 @@ I'm looking for opportunities in AI-related fields where Python knowledge is pre
 - [Data Visualization Tool](https://github.com/NextByteDev/data_visualization/)
 - [AI Image Captioning](https://github.com/NextByteDev/ai-image-captioning/)
 - [AI Data Visualization](https://github.com/NextByteDev/ai-data-visualization/)
+- [AI Sentiment Analyzer](https://github.com/NextByteDev/ai-sentiment-analyzer/)
