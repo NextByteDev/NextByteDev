@@ -1,4 +1,5 @@
-# 👋 Hi, I'm NextByteDev, but you can just call me Dev
+# 👋 Hi, I'm (NextByteDev),
+# but you can just call me (Dev)
 
 
 Aspiring AI practitioner passionate about exploring real-world applications of AI and automation.  
